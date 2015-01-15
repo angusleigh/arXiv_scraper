@@ -4,7 +4,7 @@ arXiv.py
 This is a modification of the arXiv parser here:
 http://arxiv.org/help/api/examples/python_arXiv_parsing_example.txt
 
-I changed it to query the server to retrive all abstracts from articles
+I changed it to query the server to retrieve all abstracts from articles
 of a given category. This does not retrieve the pdf's of the articles 
 (arXiv does not like that, see: http://arxiv.org/help/robots).
 
