@@ -1,8 +1,8 @@
 arxiv_scraper
 ==============
 
-This is a modification of the arXiv here:
-http://arxiv.org/help/api/user-manual#python_simple_example
+This is a modification of the arXiv parser here:
+http://arxiv.org/help/api/examples/python_arXiv_parsing_example.txt
 
 I changed it to query the server to retrive all abstracts from articles
 of a given category. This does not retrieve the pdf's of the articles 
