@@ -15,7 +15,7 @@ This is free software.  Feel free to do what you want
 with it, but please play nice with the arXiv API!
 
 # Usage:
-- python arXiv.py category max_results
+- python arXiv.py [category] [max_results]
 
 # Example:
 - python arXiv.py stat 5000
